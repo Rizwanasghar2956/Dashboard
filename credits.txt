@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Dashio - Bootstrap Admin Template</title>
+  <title>Dash - Bootstrap Admin Template</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -27,12 +27,6 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-    Template Name: Dashio
-    Template URL: https://templatemag.com/dashio-bootstrap-admin-template/
-    Author: TemplateMag.com
-    License: https://templatemag.com/license/
-  ======================================================= -->
 </head>
 
 
@@ -88,15 +82,7 @@
       <p>
         &copy; Copyrights <strong>Dashio</strong>. All Rights Reserved
       </p>
-      <div class="credits">
-        <!--
-          You are NOT allowed to delete the credit link to TemplateMag with free version.
-          You can delete the credit link only if you bought the pro version.
-          Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/buy/?template=Dashio
-          Licensing information: https://templatemag.com/license/
-        -->
-        Created with Dashio template by <a href="https://templatemag.com/">TemplateMag</a>
-      </div>
+      
     </div>
   </div>
   <!-- / copyrights -->
